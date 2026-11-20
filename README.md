@@ -1,1 +1,4 @@
-# mobile-app-course1
+# mobile-app-course
+
+ФИО: Джумаев Язмырат
+Группа: ЕП-23-5р
